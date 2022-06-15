@@ -1,1 +1,1 @@
-# StudentsManager-desktop-
+# StudentsManager-desktop-App
