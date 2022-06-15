@@ -15,7 +15,7 @@ public class MyDataBase {
     //Méthode de connexion--------------------------------------------------------------------
     void connexion() {
         String pilote = "com.mysql.jdbc.Driver";
-        String url = "jdbc:mysql://localhost/java";
+        String url = "jdbc:mysql://localhost/javas";
         String nom_utilisateur = "root";
         String motdepasse = "";
 
